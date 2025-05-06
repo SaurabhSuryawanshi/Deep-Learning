@@ -5,7 +5,7 @@ The model achieves 80% accuracy, with optimizations for data preprocessing, hype
 
 🔍 Dataset:
 
-- Source: [Churn Modelling]
+- Source: 1.Customer Churn Modelling
 
 📊 Performance Metrics:
 
